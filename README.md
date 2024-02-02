@@ -1,2 +1,1 @@
-npm install
-npm startx
+Enter "https://meghermes.github.io" in url bar
