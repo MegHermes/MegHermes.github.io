@@ -1,2 +1,2 @@
 Enter "https://meghermes.github.io" in url bar
-Or click the link
+or click the link
