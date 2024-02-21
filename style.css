@@ -38,7 +38,7 @@ body {
 #instruction-bubble {
     position: absolute;
     top: 60px;
-    left: 20px;
+    left: 30rem;
     padding: 5px;
     border: 2px solid #000;
     border-radius: 5px;
