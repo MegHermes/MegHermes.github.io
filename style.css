@@ -267,3 +267,30 @@ body {
 		margin-left: 0;
 	}
 }
+
+#linkedinLink {
+    position: fixed; /* Change to fixed */
+    top: 20px; /* Adjust top position as needed */
+    left: 20px; /* Adjust left position as needed */
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#cvlink {
+    position: fixed; /* Change to fixed */
+    top: 20px; /* Adjust top position as needed */
+    left: 80px; /* Adjust left position as needed */
+    border-radius: 5px;
+    border: 2px solid black;
+    cursor: pointer;
+}
+
+#folderlink {
+    position: fixed; /* Change to fixed */
+    top: 20px; /* Adjust top position as needed */
+    left: 140px; /* Adjust left position as needed */
+    border-radius: 5px;
+    border: 2px solid black;
+    cursor: pointer;
+}
