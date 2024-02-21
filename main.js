@@ -306,7 +306,7 @@ function animIcon() {
 				}
 			).onfinish = function() {
 				pfLink.addEventListener('click', function() {
-					open('https://github.com/MegHermes?tab=repositories');
+					open('https://github.com/MegHermes/All-Projects');
 				});
 			};
 		};
