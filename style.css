@@ -35,8 +35,8 @@ body {
 }
 #instruction-bubble {
     position: absolute;
-    top: 70px;
-    right: 5rem;
+    top: 20px;
+    right: 2rem;
     padding: 5px;
     border: 2px solid #000;
     border-radius: 5px;
