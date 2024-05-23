@@ -270,7 +270,7 @@ function animIcon() {
 				}
 			).onfinish = function() {
 				cvLink.addEventListener('click', function() {
-					open('https://github.com/MegHermes/resume/blob/main/Megane_Hermes.pdf');
+					open('https://github.com/MegHermes/Resume/blob/main/Resume_MegHermes.pdf');
 				});
 			};
 		};
